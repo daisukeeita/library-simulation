@@ -1,9 +1,9 @@
 # LIBRARY API
 
-A professional-grade RESTful API for a book exchange.
+A RESTful API for a book exchange.
 
 - **The Goal:** Show the I can handle complex relationships and security.
-- **Tech Stack:** Java 21+, Spring-Boot 3.x, Spring Data JPA, PostgresSQL, Spring Security(JWT).
+- **Tech Stack:** Java 21+, *Database*, Spring Security(JWT).
 - **Key Features:**
     - *Role-Based Access* - Different permissions for "Admin" and "User".
     - *Advance Filtering* - Search by author, genre, or availability using *Criteria API*.
