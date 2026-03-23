@@ -1,0 +1,7 @@
+# BUILD OUTPUT
+target/
+
+# IDE FILES
+.project
+.classpath
+.settings/
